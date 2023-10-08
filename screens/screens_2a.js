@@ -18,7 +18,6 @@ export default function screens_2a() {
                 alert('Login unsuccessful')
             }
         })
-
     }
     return (
         <View style={styles.container}>
